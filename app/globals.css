@@ -45,6 +45,7 @@ body {
 }
 
 a {
+  font-style: italic;
   color: inherit;
   text-decoration: underline;
 }
