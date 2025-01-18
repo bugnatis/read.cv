@@ -45,8 +45,7 @@ body {
 }
 
 a {
-  font-style: italic;
-  color: inherit;
+  color: blue;
   text-decoration: underline;
 }
 
