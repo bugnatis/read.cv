@@ -1,0 +1,674 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "velespit",
+    "displayName": "Yusuf Aşık",
+    "profession": "SDET",
+    "location": "Istanbul, Turkey",
+    "pronouns": null,
+    "byline": "SDET in Istanbul, Turkey",
+    "website": "https://yusufasik.com",
+    "websiteURL": "https://yusufasik.com",
+    "about": "Detail-Oriented QA Engineer.\n\n* Driven to enhance software quality through innovative and scalable approaches to the SDLC.\n\n* Experienced in developing automated test scripts using tools like Selenium, Appium, and Cypress.\n\n* Proficient in integrating CI/CD pipelines for seamless deployment and testing cycles.\n\n* Skilled in collaborating with cross-functional teams using Agile Scrum methodologies to enhance software performance, reliability, and delivery speed.",
+    "status": {
+      "text": "Grinding Skills..",
+      "emoji": "💻️",
+      "timestamp": "2024-12-02T15:57:00.898Z"
+    },
+    "sectionOrder": [
+      "Projects",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Work Experience",
+      "Certifications",
+      "Education",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [
+    {
+      "id": "XVXvadwawfDQiVtUYmVS",
+      "year": "2024",
+      "heading": "AI Security Testing from Microsoft",
+      "url": "https://learn.microsoft.com/en-us/users/velespit/achievements/fvjn3p6x",
+      "collaborators": [],
+      "description": "* Deep-dive into basic concepts of AI security\n\n* Three layers of AI architecture learned\n\n* New, AI specific attack techniques has been identified\n\n* Understood the three categories of AI red teaming\n\n* Planned an AI red teaming exercise\n\n* Security controls for AI systems learned\n\n* Real-life examples with when these controls should be used\n\n* Hands-on Experience with the types of attacks these controls mitigate",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1582,
+          "height": 520,
+          "url": "/content/media/AI-Security-Testing-from-Microsoft-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1582,
+          "height": 519,
+          "url": "/content/media/AI-Security-Testing-from-Microsoft-2.png"
+        }
+      ],
+      "type": "award",
+      "title": "AI Security Testing",
+      "presenter": "Microsoft"
+    }
+  ],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "0yLEbDV9rExr3hb6mbfz",
+      "year": "2022 — Now",
+      "heading": "Operations Customer Expert at Teleperformance",
+      "url": "https://www.teleperformance.com/en-us/",
+      "collaborators": [],
+      "description": "* Actively Web-based Blackbox Testing experience, especially with .har files and Network Console.\n\n* Using CI/CD and ITSM tools like ServiceNow to keep the track of the changes/issues/bugs.\n\n* Daily go-to Agile tools like Jira, Confluence and Slack to stay in touch and sustain the team collaboration.\n\n* Advanced Experience on VPS/Shared Hosting setup with using terminal and panels.\n\n* Watching Splunk to usually track the mail route, where it fails, which port causing issue and most importantly what is the status.\n\n* Understanding and solving issues with the DNS, and common protocols like HTTP, SSH, FTP and SMTP.\n\n* Solving the common Encryption and SSL problems with generating CSR for Rekey, applying Force HTTPS with php.ini and .htaccess with port filtering, and converting CRT to PFX format.\n\n* Setup WAF and set rules like URL and input data validation, parameter injection, rate limiting, SQL and Command filters to prevent any attack/unwanted situation.\n\n* Limiting login attempts, implementing recaptcha, GeoIP filtering and IP/User Blacklist to prevent Brute Force Attacks.\n\n* Streamlined live chat support processes by documenting common technical issues, enabling efficient problem resolution and reducing customer response time by 66%.\n\n* Provided technical assistance to customers, enhancing skills in analyzing system logs and identifying root causes of application and server issues.\n\n* Proposed and implemented automation scripts to address frequently encountered customer support scenarios, improving support workflow efficiency.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Operations Customer Expert",
+      "company": "Teleperformance",
+      "location": "Remote"
+    },
+    {
+      "id": "V8vlQPuT3q9rE42j6PYa",
+      "year": "2019 — 2019",
+      "heading": "Intern at Istanbul Courthouse",
+      "url": "https://istanbul.adalet.gov.tr/istanbul-adalet-sarayi",
+      "collaborators": [],
+      "description": "* Data Center Operations:\\\n  Managed and monitored servers, storage devices, and infrastructure within a data center environment. Ensured uptime and efficiency while implementing best practices for security and maintenance.\n\n* Network Administration:\\\n  Set up, configured, and maintained local area networks (LANs) and wireless networks. Provided troubleshooting and optimization to ensure reliable connectivity.\n\n* Computer Hardware Management:\\\n  Diagnosed and repaired hardware issues, performed upgrades, and ensured optimal performance of desktops, laptops, and peripheral devices.\n\n* Excel Proficiency:\\\n  Gained expertise in creating and managing complex spreadsheets, including data analysis, reporting, and automation using advanced Excel functions and macros.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Intern",
+      "company": "Istanbul Courthouse",
+      "location": "IST, Turkey"
+    },
+    {
+      "id": "CzN2mnGETpyt5TOhYRMN",
+      "year": "2017 — 2017",
+      "heading": "Intern at Atasay, HUQQA",
+      "url": "https://www.huqqa.com",
+      "collaborators": [],
+      "description": "* Advanced Excel Expertise:\\\n  Developed and automated complex spreadsheets for data analysis, forecasting, and visualization. Utilized advanced Excel functions, pivot tables, and macros to enhance reporting efficiency.\n\n* IT-Driven Financial Reporting:\\\n  Designed and implemented IT solutions to streamline financial reporting processes. Integrated data from multiple systems into centralized dashboards for real-time insights and decision-making.\n\n* Accounting System Support:\\\n  Provided technical support for accounting software, ensuring seamless integration with IT infrastructure. Conducted troubleshooting and resolved system issues to maintain accurate financial records.\n\n* Data-Driven Insights:\\\n  Leveraged IT tools to collect, organize, and analyze financial data, providing actionable insights to optimize budgeting, forecasting, and resource allocation.\n\n* Collaborative Solutions:\\\n  Worked with cross-functional teams to align IT systems with accounting and reporting requirements, improving overall efficiency and compliance.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Intern",
+      "company": "Atasay, HUQQA",
+      "location": "IST, Turkey"
+    },
+    {
+      "id": "v6uMkq1RnMtGAngNAiFt",
+      "year": "2015 — 2015",
+      "heading": "Apprentice at Canpolat Bilişim Sistemleri",
+      "url": null,
+      "collaborators": [],
+      "description": "* Learned to set up, manage, and optimize wireless network infrastructures.\n\n* Installed and configured routers and access points to ensure seamless connectivity and efficient network performance.\n\n* Provided technical support to promptly and effectively resolve network-related issues.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Apprentice",
+      "company": "Canpolat Bilişim Sistemleri",
+      "location": "IST, Turkey"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "pUf9t0MmjlHvcIkatODD",
+      "year": "2024 — Now",
+      "heading": "Practitioner at Test Automation University",
+      "url": "https://testautomationu.applitools.com/me.html#yusuf-asik",
+      "collaborators": [],
+      "description": "Test Automation University (TAU) is an online platform w by Applitools, a company specializing in AI-powered visual testing and monitoring. TAU offers free, high-quality courses designed to help professionals and beginners to improve their test automation skills.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Practitioner",
+      "organization": "Test Automation University",
+      "location": "Remote"
+    },
+    {
+      "id": "70RkZrKBQ0nnBoiPucvU",
+      "year": "2024 — Now",
+      "heading": "TEMS Member at IEEE",
+      "url": "https://ieee-collabratec.ieee.org/rest/api/membership/certificate/MEMIEEE500",
+      "collaborators": [],
+      "description": "Joining IEEE as a Technology and Engineering Management Society Member aligns with my career aspirations in becoming a proficient SDET. I am eager to collaborate with professionals and peers to explore advancements in AI security, software reliability, and innovative approaches to quality engineering.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "TEMS Member",
+      "organization": "IEEE",
+      "location": "Remote"
+    },
+    {
+      "id": "tB8LNBtEBpQjsQhAaclD",
+      "year": "2025 — 2025",
+      "heading": "Participant at Selenium Live Event",
+      "url": null,
+      "collaborators": [],
+      "description": "Contributed to event Selenium Community Live - Episode 2 as participant, David Burns shared his knowledge and information on Browsers, Browser Engines, WebDriver, WebDriver BiDi Standards, Automation and Testing.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Participant",
+      "organization": "Selenium Live Event",
+      "location": "Remote"
+    }
+  ],
+  "education": [
+    {
+      "id": "822OqFnPwMC3s2EwltBj",
+      "year": "2017 — 2019",
+      "heading": "Computer Programming at Bilgi University",
+      "url": null,
+      "collaborators": [
+        {
+          "displayName": "Yilmaz Yagiz Dokumaci",
+          "profilePhoto": "/content/collaborators/yagizdo.jpg",
+          "profileURL": "https://read.cv/yagizdo"
+        }
+      ],
+      "description": "C#, PHP, SQL and Android Studio Experience",
+      "attachments": [],
+      "type": "education",
+      "degree": "Computer Programming",
+      "school": "Bilgi University",
+      "location": "Istanbul"
+    },
+    {
+      "id": "Q8tosfw499R9OrGu6Fiq",
+      "year": "2014 — 2017",
+      "heading": "Web Programming at Sisli Anadolu Teknik",
+      "url": null,
+      "collaborators": [],
+      "description": "C++, Adobe, Excel Experience",
+      "attachments": [],
+      "type": "education",
+      "degree": "Web Programming",
+      "school": "Sisli Anadolu Teknik",
+      "location": "Istanbul"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "0Htg4pTrAL0ZXv2XNzoD",
+      "year": "2025",
+      "heading": "Practitioner Level from Katalon",
+      "url": "https://academy.katalon.com/learning-path/practitioner-certification-fast-track/",
+      "collaborators": [],
+      "description": "Katalon Studio is a comprehensive test automation tool for web, mobile, API, and desktop applications, offering both a codeless interface for non-technical users and scripting capabilities for advanced testers, with support for seamless integration into CI/CD pipelines.",
+      "attachments": [],
+      "type": "certification",
+      "name": "Practitioner Level",
+      "organization": "Katalon"
+    },
+    {
+      "id": "qRDlApxSRRTE9yCVIBmJ",
+      "year": "2025",
+      "heading": "Advanced Playwright from Test Automation University",
+      "url": "https://testautomationu.applitools.com/learningpaths.html?id=playwright-path",
+      "collaborators": [],
+      "description": "Playwright is an open source test automation tool created by Microsoft. This certification helped me to deeply understand how Playwright works and i am more confident and i see why testers choose Playwright over Selenium. Like because 10x more faster.",
+      "attachments": [],
+      "type": "certification",
+      "name": "Advanced Playwright",
+      "organization": "Test Automation University"
+    },
+    {
+      "id": "AzzFSL2zxeRhtxBymYgP",
+      "year": "2025",
+      "heading": "Java SDET from CYDEO",
+      "url": "https://cydeo.com/",
+      "collaborators": [],
+      "description": "7 Months Full hands-on experience on Java Jr-Mid Level to AI-Enhanced Testing with approximately 1000 hours of experience with dozens of instructors who are experts in their fields, most of whom still continue to work in global companies.",
+      "attachments": [],
+      "type": "certification",
+      "name": "Java SDET",
+      "organization": "CYDEO"
+    },
+    {
+      "id": "6FeYl9vCUeacoajhQOgK",
+      "year": "2025",
+      "heading": "Learn SQL + Security(pen)Testing from Scratch from Udemy",
+      "url": "https://www.udemy.com/course/database-testing-tutorial/",
+      "collaborators": [],
+      "description": "Step by step Tutorial to learn SQL and Web Security testing with real time examples",
+      "attachments": [],
+      "type": "certification",
+      "name": "Learn SQL + Security(pen)Testing from Scratch",
+      "organization": "Udemy"
+    },
+    {
+      "id": "9kbeaU4Psra5cQp5WDQT",
+      "year": "2025",
+      "heading": "Certified Tester v4.0 from ISTQB",
+      "url": "https://www.istqb.org/certifications/certified-tester-foundation-level",
+      "collaborators": [],
+      "description": "ISTQB® is the leading global certification scheme in the field of software testing. The “Core” stream modules are valid for any technology/ methodology/ application domain and build on the Foundation Level.",
+      "attachments": [],
+      "type": "certification",
+      "name": "Certified Tester v4.0",
+      "organization": "ISTQB"
+    },
+    {
+      "id": "wYZljho7mmd4xSivWyj2",
+      "year": "2025",
+      "heading": "Software Architecture: Domain-Driven Design from LinkedIN",
+      "url": "https://www.linkedin.com/learning/certificates/0c0912f410adda4cd788e9e73bff2cec255d405fb6125a65144dbdfab27ccaf2",
+      "collaborators": [],
+      "description": "Domain-driven design (DDD) is an effective architectural approach for agile environments and microservices. In this course, I learned from Allen Holub how to use DDD to develop domain-focused systems. The course covers DDD basics, microservices, bounded contexts, entities, and compares reactive and declarative systems. It also includes how to conduct an event storming session.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1050,
+          "height": 810,
+          "url": "/content/media/Software-Architecture-Domain-Driven-Design-from-LinkedIN.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Software Architecture: Domain-Driven Design",
+      "organization": "LinkedIN"
+    },
+    {
+      "id": "QGmQrEizsYNMLtt5dNHV",
+      "year": "2024",
+      "heading": "Data Protection and Security Awareness from GoDaddy",
+      "url": "https://www.godaddy.com",
+      "collaborators": [],
+      "description": "GoDaddy is leader in the Domain-Hosting and known for collaboration with Sucuri on Website Security and M365 Mail Security Products, New security certification that i added to my envanter with 100% score pass.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 877,
+          "height": 672,
+          "url": "/content/media/Data-Protection-and-Security-Awareness-from-GoDaddy.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Data Protection and Security Awareness",
+      "organization": "GoDaddy"
+    },
+    {
+      "id": "0IsbH0QtrYOHB4AFWBAp",
+      "year": "2024",
+      "heading": "Global Anti-Harassment and Discrimination from GoDaddy",
+      "url": "https://godaddy.com",
+      "collaborators": [],
+      "description": "GoDaddy is leader in the Domain-Hosting and known for collaboration with Sucuri on Website Security and M365 Mail Security Products, New security certification that i added to my envanter with 100% score pass.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 877,
+          "height": 672,
+          "url": "/content/media/Global-Anti-Harassment-and-Discrimination-from-GoDaddy.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Global Anti-Harassment and Discrimination",
+      "organization": "GoDaddy"
+    }
+  ],
+  "contact": [
+    {
+      "id": "QdMYNziRTgn1PUaomqNb",
+      "platform": "LinkedIn",
+      "handle": "velespit",
+      "url": "https://linkedin.com/in/velespit"
+    },
+    {
+      "id": "WyLHunQgeMblGux9YW0O",
+      "platform": "GitHub",
+      "handle": "velespitt",
+      "url": "https://github.com/velespitt"
+    },
+    {
+      "id": "sACt9YRYpl8e5Xv7uDxI",
+      "platform": "Twitter",
+      "handle": "testcanor",
+      "url": "https://twitter.com/testcanor"
+    },
+    {
+      "id": "LdAZvtNM6wBpGPEqkH67",
+      "platform": "Website",
+      "handle": "yusufasik.com",
+      "url": "https://yusufasik.com"
+    },
+    {
+      "id": "QXhumdc9hwj9PcvX22Ow",
+      "platform": "Email",
+      "handle": "yusuf@yusufasik.com",
+      "url": "mailto:yusuf@yusufasik.com"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "XVXvadwawfDQiVtUYmVS",
+          "year": "2024",
+          "heading": "AI Security Testing from Microsoft",
+          "url": "https://learn.microsoft.com/en-us/users/velespit/achievements/fvjn3p6x",
+          "collaborators": [],
+          "description": "* Deep-dive into basic concepts of AI security\n\n* Three layers of AI architecture learned\n\n* New, AI specific attack techniques has been identified\n\n* Understood the three categories of AI red teaming\n\n* Planned an AI red teaming exercise\n\n* Security controls for AI systems learned\n\n* Real-life examples with when these controls should be used\n\n* Hands-on Experience with the types of attacks these controls mitigate",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1582,
+              "height": 520,
+              "url": "/content/media/AI-Security-Testing-from-Microsoft-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1582,
+              "height": 519,
+              "url": "/content/media/AI-Security-Testing-from-Microsoft-2.png"
+            }
+          ],
+          "type": "award",
+          "title": "AI Security Testing",
+          "presenter": "Microsoft"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "pUf9t0MmjlHvcIkatODD",
+          "year": "2024 — Now",
+          "heading": "Practitioner at Test Automation University",
+          "url": "https://testautomationu.applitools.com/me.html#yusuf-asik",
+          "collaborators": [],
+          "description": "Test Automation University (TAU) is an online platform w by Applitools, a company specializing in AI-powered visual testing and monitoring. TAU offers free, high-quality courses designed to help professionals and beginners to improve their test automation skills.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Practitioner",
+          "organization": "Test Automation University",
+          "location": "Remote"
+        },
+        {
+          "id": "70RkZrKBQ0nnBoiPucvU",
+          "year": "2024 — Now",
+          "heading": "TEMS Member at IEEE",
+          "url": "https://ieee-collabratec.ieee.org/rest/api/membership/certificate/MEMIEEE500",
+          "collaborators": [],
+          "description": "Joining IEEE as a Technology and Engineering Management Society Member aligns with my career aspirations in becoming a proficient SDET. I am eager to collaborate with professionals and peers to explore advancements in AI security, software reliability, and innovative approaches to quality engineering.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "TEMS Member",
+          "organization": "IEEE",
+          "location": "Remote"
+        },
+        {
+          "id": "tB8LNBtEBpQjsQhAaclD",
+          "year": "2025 — 2025",
+          "heading": "Participant at Selenium Live Event",
+          "url": null,
+          "collaborators": [],
+          "description": "Contributed to event Selenium Community Live - Episode 2 as participant, David Burns shared his knowledge and information on Browsers, Browser Engines, WebDriver, WebDriver BiDi Standards, Automation and Testing.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Participant",
+          "organization": "Selenium Live Event",
+          "location": "Remote"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "0yLEbDV9rExr3hb6mbfz",
+          "year": "2022 — Now",
+          "heading": "Operations Customer Expert at Teleperformance",
+          "url": "https://www.teleperformance.com/en-us/",
+          "collaborators": [],
+          "description": "* Actively Web-based Blackbox Testing experience, especially with .har files and Network Console.\n\n* Using CI/CD and ITSM tools like ServiceNow to keep the track of the changes/issues/bugs.\n\n* Daily go-to Agile tools like Jira, Confluence and Slack to stay in touch and sustain the team collaboration.\n\n* Advanced Experience on VPS/Shared Hosting setup with using terminal and panels.\n\n* Watching Splunk to usually track the mail route, where it fails, which port causing issue and most importantly what is the status.\n\n* Understanding and solving issues with the DNS, and common protocols like HTTP, SSH, FTP and SMTP.\n\n* Solving the common Encryption and SSL problems with generating CSR for Rekey, applying Force HTTPS with php.ini and .htaccess with port filtering, and converting CRT to PFX format.\n\n* Setup WAF and set rules like URL and input data validation, parameter injection, rate limiting, SQL and Command filters to prevent any attack/unwanted situation.\n\n* Limiting login attempts, implementing recaptcha, GeoIP filtering and IP/User Blacklist to prevent Brute Force Attacks.\n\n* Streamlined live chat support processes by documenting common technical issues, enabling efficient problem resolution and reducing customer response time by 66%.\n\n* Provided technical assistance to customers, enhancing skills in analyzing system logs and identifying root causes of application and server issues.\n\n* Proposed and implemented automation scripts to address frequently encountered customer support scenarios, improving support workflow efficiency.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Operations Customer Expert",
+          "company": "Teleperformance",
+          "location": "Remote"
+        },
+        {
+          "id": "V8vlQPuT3q9rE42j6PYa",
+          "year": "2019 — 2019",
+          "heading": "Intern at Istanbul Courthouse",
+          "url": "https://istanbul.adalet.gov.tr/istanbul-adalet-sarayi",
+          "collaborators": [],
+          "description": "* Data Center Operations:\\\n  Managed and monitored servers, storage devices, and infrastructure within a data center environment. Ensured uptime and efficiency while implementing best practices for security and maintenance.\n\n* Network Administration:\\\n  Set up, configured, and maintained local area networks (LANs) and wireless networks. Provided troubleshooting and optimization to ensure reliable connectivity.\n\n* Computer Hardware Management:\\\n  Diagnosed and repaired hardware issues, performed upgrades, and ensured optimal performance of desktops, laptops, and peripheral devices.\n\n* Excel Proficiency:\\\n  Gained expertise in creating and managing complex spreadsheets, including data analysis, reporting, and automation using advanced Excel functions and macros.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Intern",
+          "company": "Istanbul Courthouse",
+          "location": "IST, Turkey"
+        },
+        {
+          "id": "CzN2mnGETpyt5TOhYRMN",
+          "year": "2017 — 2017",
+          "heading": "Intern at Atasay, HUQQA",
+          "url": "https://www.huqqa.com",
+          "collaborators": [],
+          "description": "* Advanced Excel Expertise:\\\n  Developed and automated complex spreadsheets for data analysis, forecasting, and visualization. Utilized advanced Excel functions, pivot tables, and macros to enhance reporting efficiency.\n\n* IT-Driven Financial Reporting:\\\n  Designed and implemented IT solutions to streamline financial reporting processes. Integrated data from multiple systems into centralized dashboards for real-time insights and decision-making.\n\n* Accounting System Support:\\\n  Provided technical support for accounting software, ensuring seamless integration with IT infrastructure. Conducted troubleshooting and resolved system issues to maintain accurate financial records.\n\n* Data-Driven Insights:\\\n  Leveraged IT tools to collect, organize, and analyze financial data, providing actionable insights to optimize budgeting, forecasting, and resource allocation.\n\n* Collaborative Solutions:\\\n  Worked with cross-functional teams to align IT systems with accounting and reporting requirements, improving overall efficiency and compliance.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Intern",
+          "company": "Atasay, HUQQA",
+          "location": "IST, Turkey"
+        },
+        {
+          "id": "v6uMkq1RnMtGAngNAiFt",
+          "year": "2015 — 2015",
+          "heading": "Apprentice at Canpolat Bilişim Sistemleri",
+          "url": null,
+          "collaborators": [],
+          "description": "* Learned to set up, manage, and optimize wireless network infrastructures.\n\n* Installed and configured routers and access points to ensure seamless connectivity and efficient network performance.\n\n* Provided technical support to promptly and effectively resolve network-related issues.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Apprentice",
+          "company": "Canpolat Bilişim Sistemleri",
+          "location": "IST, Turkey"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "0Htg4pTrAL0ZXv2XNzoD",
+          "year": "2025",
+          "heading": "Practitioner Level from Katalon",
+          "url": "https://academy.katalon.com/learning-path/practitioner-certification-fast-track/",
+          "collaborators": [],
+          "description": "Katalon Studio is a comprehensive test automation tool for web, mobile, API, and desktop applications, offering both a codeless interface for non-technical users and scripting capabilities for advanced testers, with support for seamless integration into CI/CD pipelines.",
+          "attachments": [],
+          "type": "certification",
+          "name": "Practitioner Level",
+          "organization": "Katalon"
+        },
+        {
+          "id": "qRDlApxSRRTE9yCVIBmJ",
+          "year": "2025",
+          "heading": "Advanced Playwright from Test Automation University",
+          "url": "https://testautomationu.applitools.com/learningpaths.html?id=playwright-path",
+          "collaborators": [],
+          "description": "Playwright is an open source test automation tool created by Microsoft. This certification helped me to deeply understand how Playwright works and i am more confident and i see why testers choose Playwright over Selenium. Like because 10x more faster.",
+          "attachments": [],
+          "type": "certification",
+          "name": "Advanced Playwright",
+          "organization": "Test Automation University"
+        },
+        {
+          "id": "AzzFSL2zxeRhtxBymYgP",
+          "year": "2025",
+          "heading": "Java SDET from CYDEO",
+          "url": "https://cydeo.com/",
+          "collaborators": [],
+          "description": "7 Months Full hands-on experience on Java Jr-Mid Level to AI-Enhanced Testing with approximately 1000 hours of experience with dozens of instructors who are experts in their fields, most of whom still continue to work in global companies.",
+          "attachments": [],
+          "type": "certification",
+          "name": "Java SDET",
+          "organization": "CYDEO"
+        },
+        {
+          "id": "6FeYl9vCUeacoajhQOgK",
+          "year": "2025",
+          "heading": "Learn SQL + Security(pen)Testing from Scratch from Udemy",
+          "url": "https://www.udemy.com/course/database-testing-tutorial/",
+          "collaborators": [],
+          "description": "Step by step Tutorial to learn SQL and Web Security testing with real time examples",
+          "attachments": [],
+          "type": "certification",
+          "name": "Learn SQL + Security(pen)Testing from Scratch",
+          "organization": "Udemy"
+        },
+        {
+          "id": "9kbeaU4Psra5cQp5WDQT",
+          "year": "2025",
+          "heading": "Certified Tester v4.0 from ISTQB",
+          "url": "https://www.istqb.org/certifications/certified-tester-foundation-level",
+          "collaborators": [],
+          "description": "ISTQB® is the leading global certification scheme in the field of software testing. The “Core” stream modules are valid for any technology/ methodology/ application domain and build on the Foundation Level.",
+          "attachments": [],
+          "type": "certification",
+          "name": "Certified Tester v4.0",
+          "organization": "ISTQB"
+        },
+        {
+          "id": "wYZljho7mmd4xSivWyj2",
+          "year": "2025",
+          "heading": "Software Architecture: Domain-Driven Design from LinkedIN",
+          "url": "https://www.linkedin.com/learning/certificates/0c0912f410adda4cd788e9e73bff2cec255d405fb6125a65144dbdfab27ccaf2",
+          "collaborators": [],
+          "description": "Domain-driven design (DDD) is an effective architectural approach for agile environments and microservices. In this course, I learned from Allen Holub how to use DDD to develop domain-focused systems. The course covers DDD basics, microservices, bounded contexts, entities, and compares reactive and declarative systems. It also includes how to conduct an event storming session.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1050,
+              "height": 810,
+              "url": "/content/media/Software-Architecture-Domain-Driven-Design-from-LinkedIN.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Software Architecture: Domain-Driven Design",
+          "organization": "LinkedIN"
+        },
+        {
+          "id": "QGmQrEizsYNMLtt5dNHV",
+          "year": "2024",
+          "heading": "Data Protection and Security Awareness from GoDaddy",
+          "url": "https://www.godaddy.com",
+          "collaborators": [],
+          "description": "GoDaddy is leader in the Domain-Hosting and known for collaboration with Sucuri on Website Security and M365 Mail Security Products, New security certification that i added to my envanter with 100% score pass.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 877,
+              "height": 672,
+              "url": "/content/media/Data-Protection-and-Security-Awareness-from-GoDaddy.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Data Protection and Security Awareness",
+          "organization": "GoDaddy"
+        },
+        {
+          "id": "0IsbH0QtrYOHB4AFWBAp",
+          "year": "2024",
+          "heading": "Global Anti-Harassment and Discrimination from GoDaddy",
+          "url": "https://godaddy.com",
+          "collaborators": [],
+          "description": "GoDaddy is leader in the Domain-Hosting and known for collaboration with Sucuri on Website Security and M365 Mail Security Products, New security certification that i added to my envanter with 100% score pass.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 877,
+              "height": 672,
+              "url": "/content/media/Global-Anti-Harassment-and-Discrimination-from-GoDaddy.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Global Anti-Harassment and Discrimination",
+          "organization": "GoDaddy"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "822OqFnPwMC3s2EwltBj",
+          "year": "2017 — 2019",
+          "heading": "Computer Programming at Bilgi University",
+          "url": null,
+          "collaborators": [
+            {
+              "displayName": "Yilmaz Yagiz Dokumaci",
+              "profilePhoto": "/content/collaborators/yagizdo.jpg",
+              "profileURL": "https://read.cv/yagizdo"
+            }
+          ],
+          "description": "C#, PHP, SQL and Android Studio Experience",
+          "attachments": [],
+          "type": "education",
+          "degree": "Computer Programming",
+          "school": "Bilgi University",
+          "location": "Istanbul"
+        },
+        {
+          "id": "Q8tosfw499R9OrGu6Fiq",
+          "year": "2014 — 2017",
+          "heading": "Web Programming at Sisli Anadolu Teknik",
+          "url": null,
+          "collaborators": [],
+          "description": "C++, Adobe, Excel Experience",
+          "attachments": [],
+          "type": "education",
+          "degree": "Web Programming",
+          "school": "Sisli Anadolu Teknik",
+          "location": "Istanbul"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "QdMYNziRTgn1PUaomqNb",
+          "platform": "LinkedIn",
+          "handle": "velespit",
+          "url": "https://linkedin.com/in/velespit"
+        },
+        {
+          "id": "WyLHunQgeMblGux9YW0O",
+          "platform": "GitHub",
+          "handle": "velespitt",
+          "url": "https://github.com/velespitt"
+        },
+        {
+          "id": "sACt9YRYpl8e5Xv7uDxI",
+          "platform": "Twitter",
+          "handle": "testcanor",
+          "url": "https://twitter.com/testcanor"
+        },
+        {
+          "id": "LdAZvtNM6wBpGPEqkH67",
+          "platform": "Website",
+          "handle": "yusufasik.com",
+          "url": "https://yusufasik.com"
+        },
+        {
+          "id": "QXhumdc9hwj9PcvX22Ow",
+          "platform": "Email",
+          "handle": "yusuf@yusufasik.com",
+          "url": "mailto:yusuf@yusufasik.com"
+        }
+      ]
+    }
+  ]
+}
