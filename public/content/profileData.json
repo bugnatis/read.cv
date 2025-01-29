@@ -31,7 +31,46 @@
       "Teams"
     ]
   },
-  "projects": [],
+  "projects": [
+    {
+      "id": "ooSgnL22tWNEdhbztUT9",
+      "year": "2025",
+      "heading": "Smooth Scroll at GitHub Repository",
+      "url": "https://github.com/velespitt/test-automation/tree/main/SeleniumWebDriver",
+      "collaborators": [],
+      "description": "Mouse Scroll Wheel Imitation with Selenium WebDriver help of the JS. Both applicable for specified WebElement or as Infinite Loop.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1400,
+          "height": 1463,
+          "url": "/content/media/Smooth-Scroll-at-GitHub-Repository.png"
+        }
+      ],
+      "type": "project",
+      "title": "Smooth Scroll",
+      "company": "GitHub Repository"
+    },
+    {
+      "id": "Ic9ZOPpiseSOYxi2y0J9",
+      "year": "2025",
+      "heading": "Accessibility Testing at GitHub Repository",
+      "url": "https://github.com/velespitt/test-automation/tree/main/AXE-DevTool",
+      "collaborators": [],
+      "description": "* Accessibility Test Results of couple of sites with the help of axe\n\n* JSON files in this folder: https://github.com/velespitt/test-automation/tree/main/AXE-DevTool",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 799,
+          "height": 319,
+          "url": "/content/media/Accessibility-Testing-at-GitHub-Repository.png"
+        }
+      ],
+      "type": "project",
+      "title": "Accessibility Testing",
+      "company": "GitHub Repository"
+    }
+  ],
   "sideProjects": [],
   "exhibitions": [],
   "talks": [],
