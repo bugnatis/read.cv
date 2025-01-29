@@ -1,1 +1,1 @@
-# Read.cv is joining Perplexity AI team, so i exported my data and now hosting with vercel.
+## [Read.CV](https://read.cv) is joining Perplexity AI team, so i exported my data and now hosting with vercel.
