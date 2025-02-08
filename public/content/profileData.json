@@ -36,7 +36,7 @@
       "id": "ooSgnL22tWNEdhbztUT9",
       "year": "2025",
       "heading": "Smooth Scroll at GitHub Repository",
-      "url": "https://github.com/velespitt/test-automation/tree/main/SeleniumWebDriver",
+      "url": "https://github.com/bugnatis/test-automation/tree/main/SeleniumWebDriver",
       "collaborators": [],
       "description": "Mouse Scroll Wheel Imitation with Selenium WebDriver help of the JS. Both applicable for specified WebElement or as Infinite Loop.",
       "attachments": [
@@ -55,9 +55,9 @@
       "id": "Ic9ZOPpiseSOYxi2y0J9",
       "year": "2025",
       "heading": "Accessibility Testing at GitHub Repository",
-      "url": "https://github.com/velespitt/test-automation/tree/main/AXE-DevTool",
+      "url": "https://github.com/bugnatis/test-automation/tree/main/AXE-DevTool",
       "collaborators": [],
-      "description": "* Accessibility Test Results of couple of sites with the help of axe\n\n* JSON files in this folder: https://github.com/velespitt/test-automation/tree/main/AXE-DevTool",
+      "description": "* Accessibility Test Results of couple of sites with the help of axe\n\n* JSON files in this folder: https://github.com/bugnatis/test-automation/tree/main/AXE-DevTool",
       "attachments": [
         {
           "type": "image",
@@ -361,8 +361,8 @@
     {
       "id": "WyLHunQgeMblGux9YW0O",
       "platform": "GitHub",
-      "handle": "velespitt",
-      "url": "https://github.com/velespitt"
+      "handle": "bugnatis",
+      "url": "https://github.com/bugnatis"
     },
     {
       "id": "sACt9YRYpl8e5Xv7uDxI",
@@ -686,8 +686,8 @@
         {
           "id": "WyLHunQgeMblGux9YW0O",
           "platform": "GitHub",
-          "handle": "velespitt",
-          "url": "https://github.com/velespitt"
+          "handle": "bugnatis",
+          "url": "https://github.com/bugnatis"
         },
         {
           "id": "sACt9YRYpl8e5Xv7uDxI",
