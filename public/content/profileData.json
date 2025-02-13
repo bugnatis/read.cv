@@ -234,28 +234,18 @@
   ],
   "certifications": [
     {
-      "id": "0Htg4pTrAL0ZXv2XNzoD",
+
+      "id": "9kbeaU4Psra5cQp5WDQT",
       "year": "2025",
-      "heading": "Practitioner Level from Katalon",
-      "url": "https://academy.katalon.com/learning-path/practitioner-certification-fast-track/",
+      "heading": "Certified Tester v4.0 from ISTQB",
+      "url": "https://www.istqb.org/certifications/certified-tester-foundation-level",
       "collaborators": [],
-      "description": "Katalon Studio is a comprehensive test automation tool for web, mobile, API, and desktop applications, offering both a codeless interface for non-technical users and scripting capabilities for advanced testers, with support for seamless integration into CI/CD pipelines.",
+      "description": "ISTQB® is the leading global certification scheme in the field of software testing. The “Core” stream modules are valid for any technology/ methodology/ application domain and build on the Foundation Level.",
       "attachments": [],
       "type": "certification",
-      "name": "Practitioner Level",
-      "organization": "Katalon"
-    },
-    {
-      "id": "qRDlApxSRRTE9yCVIBmJ",
-      "year": "2025",
-      "heading": "Advanced Playwright from Test Automation University",
-      "url": "https://testautomationu.applitools.com/learningpaths.html?id=playwright-path",
-      "collaborators": [],
-      "description": "Playwright is an open source test automation tool created by Microsoft. This certification helped me to deeply understand how Playwright works and i am more confident and i see why testers choose Playwright over Selenium. Like because 10x more faster.",
-      "attachments": [],
-      "type": "certification",
-      "name": "Advanced Playwright",
-      "organization": "Test Automation University"
+      "name": "Certified Tester v4.0",
+      "organization": "ISTQB"
+      
     },
     {
       "id": "AzzFSL2zxeRhtxBymYgP",
@@ -270,28 +260,28 @@
       "organization": "CYDEO"
     },
     {
-      "id": "6FeYl9vCUeacoajhQOgK",
+      "id": "qRDlApxSRRTE9yCVIBmJ",
       "year": "2025",
-      "heading": "Learn SQL + Security(pen)Testing from Scratch from Udemy",
-      "url": "https://www.udemy.com/course/database-testing-tutorial/",
+      "heading": "Advanced Playwright from Test Automation University",
+      "url": "https://testautomationu.applitools.com/learningpaths.html?id=playwright-path",
       "collaborators": [],
-      "description": "Step by step Tutorial to learn SQL and Web Security testing with real time examples",
+      "description": "Playwright is an open source test automation tool created by Microsoft. This certification helped me to deeply understand how Playwright works and i am more confident and i see why testers choose Playwright over Selenium. Like because 10x more faster.",
       "attachments": [],
       "type": "certification",
-      "name": "Learn SQL + Security(pen)Testing from Scratch",
-      "organization": "Udemy"
+      "name": "Advanced Playwright",
+      "organization": "Test Automation University"
     },
     {
-      "id": "9kbeaU4Psra5cQp5WDQT",
+      "id": "qRDlApxSRRTE9yCVIBmJ",
       "year": "2025",
-      "heading": "Certified Tester v4.0 from ISTQB",
-      "url": "https://www.istqb.org/certifications/certified-tester-foundation-level",
+      "heading": "Postman API Testing Path",
+      "url": "https://academy.postman.com/path/api-testing-path",
       "collaborators": [],
-      "description": "ISTQB® is the leading global certification scheme in the field of software testing. The “Core” stream modules are valid for any technology/ methodology/ application domain and build on the Foundation Level.",
+      "description": "Postman API Testing Path is a comprehensive certification that covers the fundamentals of API testing using Postman. This certification helped me to understand how to create, manage, and automate API tests efficiently, enhancing my skills in API testing and ensuring robust API performance.",
       "attachments": [],
       "type": "certification",
-      "name": "Certified Tester v4.0",
-      "organization": "ISTQB"
+      "name": "Postman API Testing",
+      "organization": "Postman"
     },
     {
       "id": "wYZljho7mmd4xSivWyj2",
